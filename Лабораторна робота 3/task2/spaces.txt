@@ -1,0 +1,1 @@
+This text  contains many words  to ensure that there are  enough  spaces for  hiding binary data  effectively using the spacing method in text steganography systems designed for educational purposes and demonstration tasks in cybersecurity courses.
